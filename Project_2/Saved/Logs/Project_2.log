@@ -2163,3 +2163,6 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.08.28-20.37.01:024][169]UATHelper: Packaging (Windows (64-bit)): BUILD SUCCESSFUL
 [2020.08.28-20.37.01:027][169]UATHelper: Packaging (Windows (64-bit)): AutomationTool exiting with ExitCode=0 (Success)
 [2020.08.28-20.37.07:065][385]LogAudioMixer: Display: Audio Buffer Underrun detected.
+[2020.08.28-20.53.34:076][228]LogUObjectHash: Compacting FUObjectHashTables data took 1598.78ms
+[2020.08.28-20.53.45:069][228]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2020.08.28-20.53.45:080][228]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
